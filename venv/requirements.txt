@@ -1,7 +1,7 @@
 python-slugify==1.1.3
 Unidecode==0.4.18
 pytz==2014.4
-Babel==1.3
+Babel==2.9.1
 gaebusiness==4.5.3
 gaeforms==0.18
 gaegraph==3.9
